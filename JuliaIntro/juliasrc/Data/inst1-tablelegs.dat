@@ -1,0 +1,5 @@
+# File containing data for table legs
+# Line 1: table leg sizes
+# Line 2: demand for each size
+ 40,  60,  70
+432, 500, 400
